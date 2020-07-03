@@ -1,4 +1,4 @@
-#Generate Gaussian pulses with C
+# Generate Gaussian pulses with C
 
 Run `make plot` to generate the sample plot below.
 Note: plotting depends on gnuplot
